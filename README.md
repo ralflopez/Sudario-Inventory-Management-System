@@ -22,6 +22,6 @@
 1. Go to your downloaded folder
 2. Run the server in your terminal
    ```bash
-   npm run preview
+   npm run dev
    ```
 3. Visit http://localhost:3000
